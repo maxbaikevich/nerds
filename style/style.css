@@ -758,9 +758,12 @@ body {
 .catalog-hedline-filter {
 	margin-bottom: 48px
 }
+.sorting {
+	width:760px;
+
+}
 
 .sorting-list {
-	width:760px;
 	display: flex;
 	margin: 0;
 	padding: 0;
@@ -997,6 +1000,7 @@ body {
 }
 
 .catalog-list {
+	width:760px;
 	padding: 0;
 	margin: 0;
 	display: flex;
