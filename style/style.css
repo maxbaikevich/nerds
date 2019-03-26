@@ -760,6 +760,7 @@ body {
 }
 
 .sorting-list {
+	width:760px;
 	display: flex;
 	margin: 0;
 	padding: 0;
